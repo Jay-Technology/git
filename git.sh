@@ -12,4 +12,4 @@ git branch --- to show current branch
 git branch -m <branchname> to to manege the branch
 git branch <branchname> To create New Branch
 git checkout <branchname> To Set up the current branch
-
+git log -- oneline ----------to show commits in one line
